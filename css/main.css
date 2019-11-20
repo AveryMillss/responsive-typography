@@ -20,6 +20,7 @@ html {
 
 article {
   max-width: 43em;
+  line-height: 1.5;
 }
 
 article h1 {
